@@ -1368,4 +1368,21 @@
   }
   /* footer section ends here  */
   
+  /* about us section starts here */
+  .about-section {
+    max-width: 70%;
+    margin: 0 auto;
+    padding: 20px;
+  }
   
+  h1 {
+    font-size: 50px;
+    margin-top: 0;
+  }
+  
+  .about-us {
+    font-size: 13px;
+    line-height: 1.2;
+  }
+  
+  /* about us section ends here */
